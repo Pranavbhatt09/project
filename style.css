@@ -50,3 +50,12 @@ p>a{
     border-left: black 5px solid;
     
 }
+
+div{
+    border: solid 1px red;
+
+}
+a{
+    border: solid 1px black;
+    
+}
