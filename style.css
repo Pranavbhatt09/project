@@ -52,10 +52,10 @@ p>a{
 }
 
 div{
-    border: solid 1px red;
+    border: inline 1px red;
 
 }
 a{
     border: solid 1px black;
-    
+
 }
