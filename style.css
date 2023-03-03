@@ -59,6 +59,7 @@ div{
 }
 a{
     border: solid 1px black;
-    position: relative;
-    left: 10px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
 }
