@@ -61,6 +61,7 @@ a{
     border: solid 1px black;
     /* position: fixed; */
     position: relative;
-    bottom: 20px;
-    left: 0px;
+    
+    left: 10px;
+    bottom: 10px;
 }
