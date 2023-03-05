@@ -26,7 +26,7 @@
 }
 
 .row2{
-    border: solid 2px black;
+    border: solid 2px blue;
     height: 50%;
-    width:100%
+    /* width:100% */
 }
