@@ -30,3 +30,17 @@
     height: 50%;
     /* width:100% */
 }
+
+/* checking wireframing using float */
+
+.container{
+    border: solid 1px black;
+}
+
+.zbc{
+    float: right;
+    border: solid 3px red;
+    height: 50px;
+    width: 200px;
+}
+
