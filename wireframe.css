@@ -38,9 +38,18 @@
 }
 
 .zbc{
-    float: right;
+    float: left;
     border: solid 3px red;
     height: 50px;
     width: 200px;
 }
 
+.second{
+    float: right;
+    border: solid 3px blue;
+}
+
+.third{
+    float: left;
+    border: solid 3px pink;
+}
