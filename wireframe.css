@@ -68,3 +68,15 @@
     border-radius: 5px;
 }
 
+.one{
+    flex-basis: 50px;
+}
+
+.two{
+    flex-basis: auto;
+
+}
+
+.three{
+    flex-basis: 200px;
+}
