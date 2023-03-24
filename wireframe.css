@@ -63,8 +63,10 @@
     width: 500px;
     display: flex;
     flex-direction: row;
-    /* flex-wrap: wrap; */
-    flex-wrap: nowrap;
+    /* flex-wrap: wrap; 
+    flex-wrap: nowrap; */
+
+    flex-flow: row wrap;
     
 }
 
