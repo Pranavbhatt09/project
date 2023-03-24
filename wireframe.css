@@ -60,7 +60,8 @@
     border: dotted 2px rgb(96, 139, 168);
     width: 500px;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    box-sizing: border-box;
 }
 
 .box>div{
@@ -69,14 +70,18 @@
 }
 
 .one{
-    flex-basis: 50px;
+    flex-basis: 100px;
+    flex-grow: 0;
 }
 
 .two{
-    flex-basis: auto;
+    flex-basis: 100px;
+    flex-grow: 1;
+
 
 }
 
 .three{
-    flex-basis: 200px;
+    flex-basis: 100px;
+    flex-grow: 1;
 }
