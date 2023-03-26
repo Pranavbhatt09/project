@@ -67,7 +67,7 @@
     flex-wrap: nowrap; */
 
     flex-flow: row wrap;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     
 }
 
