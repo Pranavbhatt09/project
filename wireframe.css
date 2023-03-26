@@ -79,6 +79,7 @@
 
 .one{
     flex: 0 0 100px;
+    align-self: center;
 }
 
 .two{
